@@ -22,6 +22,7 @@ This section is intended to build filters for sentinel 2 image collections over 
 ![image](https://github.com/siabikebenezer/Technical-note/assets/69909609/0ba3c7da-35f0-4c96-86b2-15c36e4157d0)
 
 	Import region of interest and center it. Set other options by adding satellite as the base map. 
+
 ![image](https://github.com/siabikebenezer/Technical-note/assets/69909609/f33bc315-a920-44f5-bf77-804cbb1dd61d)
 
 	Define start and end dates for the image collection and determine maximum cloud probability. Maximum cloud probability may vary depending on the desired outcome. We set the maximum cloud probability threshold to 30 for the small reservoir mapping. 
